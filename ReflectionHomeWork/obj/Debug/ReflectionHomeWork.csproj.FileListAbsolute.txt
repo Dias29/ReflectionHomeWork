@@ -1,0 +1,6 @@
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\ReflectionHomeWork\bin\Debug\ReflectionHomeWork.exe.config
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\ReflectionHomeWork\bin\Debug\ReflectionHomeWork.exe
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\ReflectionHomeWork\bin\Debug\ReflectionHomeWork.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\ReflectionHomeWork\obj\Debug\ReflectionHomeWork.exe
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\ReflectionHomeWork\obj\Debug\ReflectionHomeWork.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\ReflectionHomeWork\obj\Debug\ReflectionHomeWork.csprojResolveAssemblyReference.cache

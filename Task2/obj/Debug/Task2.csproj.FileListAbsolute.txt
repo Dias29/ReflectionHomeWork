@@ -1,0 +1,5 @@
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\Task2\bin\Debug\Task2.exe.config
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\Task2\bin\Debug\Task2.exe
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\Task2\bin\Debug\Task2.pdb
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\Task2\obj\Debug\Task2.exe
+C:\Users\УринбасаровД\Documents\Visual Studio 2017\Projects\ReflectionHomeWork\Task2\obj\Debug\Task2.pdb
